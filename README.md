@@ -21,6 +21,8 @@ There is client side and admin side. Authorisation handles which resources has c
 
 Admin has plenty CRUD operations and also can generate PDF reports that are done in Jaspersoft.
 
+Frontend is done with JSP.
+
 Features:
 - Spring Boot
 - Java
@@ -28,3 +30,4 @@ Features:
 - Hibernate
 - Security config
 - Jaspersoft reports
+- JSP
