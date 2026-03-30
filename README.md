@@ -7,6 +7,8 @@ Its done as a project for univeristy.
 
 It presents fullstack E-commerce web site used for computer peripherals.
 
+It has Jpa project that deals with base with Java/Hibernate/SQL and Web project that is done in Spring Boot/JSP.
+
 It's done in Spring Boot using Java with Hibernate, database in done in SQL(MySQL).
 
 Project has all validations and Exception handlers needed.
