@@ -33,20 +33,21 @@ Features:
 - Security config
 - Jaspersoft reports
 - JSP
-<img width="1549" height="782" alt="5" src="https://github.com/user-attachments/assets/10cccf04-cb37-45c0-8b79-e64486c7ed01" />
-<img width="1551" height="779" alt="4" src="https://github.com/user-attachments/assets/73a515f8-8ca0-4a03-a3f4-23c098401694" />
-<img width="1528" height="660" alt="3" src="https://github.com/user-attachments/assets/ea7be12c-ccaf-42bf-b931-c179c44e60e1" />
-<img width="1550" height="822" alt="2" src="https://github.com/user-attachments/assets/d05b5227-634e-497f-a9c7-c1d7e00998f4" />
-<img width="1550" height="819" alt="1" src="https://github.com/user-attachments/assets/389eb97c-04f6-41d7-b39e-4f9509016b21" />
-<img width="990" height="706" alt="0" src="https://github.com/user-attachments/assets/cb3f68a6-dcf5-4085-9930-b083f1ce28e2" />
-<img width="1549" height="780" alt="16" src="https://github.com/user-attachments/assets/d763a410-ed62-41c8-9f53-855c8fb6c118" />
-<img width="1549" height="777" alt="15" src="https://github.com/user-attachments/assets/85f79454-b9bd-4496-bef4-e66efd0bfdb2" />
-<img width="1550" height="779" alt="14" src="https://github.com/user-attachments/assets/502cee63-cb16-4673-b190-d0fad298841c" />
-<img width="1529" height="651" alt="13" src="https://github.com/user-attachments/assets/0a9a8153-cb75-48cb-af9e-e13fa4e06840" />
-<img width="1528" height="666" alt="12" src="https://github.com/user-attachments/assets/5f37ad75-5fa8-48d1-bab8-321bbe74738e" />
-<img width="1528" height="640" alt="11" src="https://github.com/user-attachments/assets/53241624-eca3-4239-9a22-589ba3100ed6" />
-<img width="1548" height="786" alt="10" src="https://github.com/user-attachments/assets/c96ce254-1f33-4c53-8952-634fdde6f97c" />
-<img width="1548" height="784" alt="9" src="https://github.com/user-attachments/assets/a87ee03e-6b5e-4d47-bfc3-8980f1a607c5" />
-<img width="1551" height="779" alt="8" src="https://github.com/user-attachments/assets/ca6799ae-c531-4b6f-96bb-8df33c084555" />
-<img width="1531" height="643" alt="7" src="https://github.com/user-attachments/assets/10bb7e51-68d1-4ae6-af5d-f15adf31a9fe" />
-<img width="1549" height="780" alt="6" src="https://github.com/user-attachments/assets/6b2dd72b-002e-4669-bc99-1574ee7816df" />
+<img width="990" height="706" alt="0" src="https://github.com/user-attachments/assets/797fb756-d90b-4491-ba20-fa38efbd38b0" />
+<img width="1550" height="819" alt="1" src="https://github.com/user-attachments/assets/e16ced43-dc25-4532-aa38-08ff779886a8" />
+<img width="1550" height="822" alt="2" src="https://github.com/user-attachments/assets/c026b4a0-b16a-46f0-b54e-41c64146629b" />
+<img width="1528" height="660" alt="3" src="https://github.com/user-attachments/assets/8d400bf2-9aa2-4325-a9fe-a6a0025f423c" />
+<img width="1551" height="779" alt="4" src="https://github.com/user-attachments/assets/9ad78120-e7f4-4ad7-b403-27ca7ebcb9b5" />
+<img width="1549" height="782" alt="5" src="https://github.com/user-attachments/assets/73d9e0dc-5d9a-4a03-876c-f60cea4b9de6" />
+<img width="1549" height="780" alt="6" src="https://github.com/user-attachments/assets/6597844b-23d5-4aa0-b40c-99220a74526e" />
+<img width="1531" height="643" alt="7" src="https://github.com/user-attachments/assets/d9f7cac4-34e9-4829-aa01-deb28d93ba95" />
+<img width="1551" height="779" alt="8" src="https://github.com/user-attachments/assets/a849548a-60a2-42ab-8d41-76de16d82faa" />
+<img width="1548" height="784" alt="9" src="https://github.com/user-attachments/assets/0309b399-ea86-4a38-a613-770f5ec6aa9b" />
+<img width="1548" height="786" alt="10" src="https://github.com/user-attachments/assets/0f9789a1-9844-41b8-9346-e58e6406542b" />
+<img width="1528" height="640" alt="11" src="https://github.com/user-attachments/assets/37abcc66-5db4-4227-b42f-accd6ab90fc1" />
+<img width="1528" height="666" alt="12" src="https://github.com/user-attachments/assets/999642d4-3535-4a47-b89f-4adf9fe4f6c7" />
+<img width="1529" height="651" alt="13" src="https://github.com/user-attachments/assets/46d6ff4f-cdb7-41af-aeb6-3e7bb0c49af0" />
+<img width="1550" height="779" alt="14" src="https://github.com/user-attachments/assets/c2a84636-64cc-43ae-bac4-5477cf644e09" />
+<img width="1549" height="777" alt="15" src="https://github.com/user-attachments/assets/df163386-5596-4f1e-94ec-f758904c454e" />
+<img width="1549" height="780" alt="16" src="https://github.com/user-attachments/assets/38ba8dee-5760-45de-9ddb-4c17af3ffd0e" />
+
