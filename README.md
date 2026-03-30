@@ -19,7 +19,7 @@ Controllers have CRUD and more complicated requests processed.
 
 Web site has Security config. It has Authentication and Authorisation.
 
-There is client side and admin side. Authorisation handles which resources has client access too and which admin.
+There is client side and admin side. Authorisation handles which resources client has access too and which admin.
 
 Admin has plenty CRUD operations and also can generate PDF reports that are done in Jaspersoft.
 
